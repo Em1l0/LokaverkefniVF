@@ -2,7 +2,7 @@
 
 ## Höfundur
 **Nafn:** Emil Óli B.
-**Áfangi:** Tölvubraut 
+**Áfangi:** FORR3FV05EU 
 **Skóli:** Tækniskólinn
 
 ---
