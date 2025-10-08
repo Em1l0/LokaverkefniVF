@@ -29,7 +29,7 @@
 ## Heimildir
 
 **Vefslóð1:** [https://sketchfab.com/search?type=models](https://sketchfab.com/search?type=models) 
-
+**Vefslóð2:** [https://threejs.org/docs/#api/en/core/Object3D.remove](three.js) 
 
 
 
