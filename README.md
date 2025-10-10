@@ -27,6 +27,10 @@ Að auki er til „random rotation“ hnappur sem snýr teningnum handahófskenn
 <img width="737" height="601" alt="image" src="https://github.com/user-attachments/assets/3202ec20-6b3e-4e15-8cc0-69e195decde2" />
 
 
+https://github.com/user-attachments/assets/a0fb4f69-c878-4767-8e85-db0a8f7a3c61
+
+
+
 
 
 
