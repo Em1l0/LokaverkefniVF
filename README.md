@@ -8,6 +8,7 @@
 ---
 
 ## Verkefnalýsing
+Mobile 2x2x2 Rubik's cube leikur.
 Upphaflega stefndi ég að því að búa til hefðbundinn 3x3x3 Rubik's cube, en eftir nánari hugsun ákvað ég að byrja frekar á einfaldari 2x2x2 útgáfu til að prófa hugmyndina og sjá hversu langt ég kæmist. Markmiðið var að hanna snertistýrðan Rubik's cube þar sem notandinn gæti skoðað allar hliðar á frjálsan hátt. Hins vegar komu upp ýmsar tæknilegar áskoranir, og því ákvað ég að einfalda verkefnið með því að takmarka snúninga við 90 gráður.
 
 Teningurinn styður swipe hreyfingar í allar áttir fyrir venjulegan 2x2x rubik's, og snúningarnir eru útfærðir með hjálp anime.js. Að lokum vildi ég bæta við tveimur hnöppum: „random rotation“ hnapp sem framkvæmir handahófskennda snúninga, og hins vegar „hjálparhnapp“(hafði ekki tíma fyrir mikla stærðfræði) sem gefur vísbendingar um hvernig hægt sé að leysa teninginn. 
@@ -39,9 +40,14 @@ https://github.com/user-attachments/assets/a0fb4f69-c878-4767-8e85-db0a8f7a3c61
 
 
 ## Heimildir
+kóði frá gömlum verkefnum.
 
-**Vefslóð1:** [https://sketchfab.com/search?type=models](https://sketchfab.com/search?type=models) 
+**Vefslóð1:** [https://sketchfab.com/search?type=models](sketchfab) 
 **Vefslóð2:** [https://threejs.org/docs/#api/en/core/Object3D.remove](three.js) 
+**Vefslóð3:** [https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Using_Pointer_Events](pointer events) 
+**Vefslóð4:** [https://animejs.com](anime.js) 
+**Vefslóð5:** [https://borstch.com/blog/javascript-touch-events-and-mobile-specific-considerations](touch events) 
+**Myndband:** [https://www.youtube.com/watch?v=9PGfL4t-uqE](youtube tutorial fyrir rubiks) 
 
 
 
@@ -63,6 +69,15 @@ Upphaflega notaði ég „orbit controls“, en þau reyndust illa samhæf við 
 
 
 ### Næstu skref
+
+næstu skref gætu verið:
+
+• Að uppfæra teninginn í 3x3x3 útgáfu.
+• Að bæta við hjálparhnappi sem leiðbeinir notandanum í gegnum lausnina.
+• Að útfæra viðbrögð þegar teningurinn er leystur, t.d. með stuttri hreyfimynd, skilaboðum og auknu sjónrænu umhverfi.
+• Að bæta við fleiri bakgrunnsþáttum.
+• Að samhæfa orbit controls og pointer events þannig að þau virki saman á hnökralausan hátt.
+
 
 
 ---
