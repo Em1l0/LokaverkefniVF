@@ -40,14 +40,14 @@ https://github.com/user-attachments/assets/a0fb4f69-c878-4767-8e85-db0a8f7a3c61
 
 
 ## Heimildir
-kóði frá gömlum verkefnum.
+Kóði frá gömlum verkefnum.
 
-**Vefslóð1:** [https://sketchfab.com/search?type=models](sketchfab) 
-**Vefslóð2:** [https://threejs.org/docs/#api/en/core/Object3D.remove](three.js) 
-**Vefslóð3:** [https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Using_Pointer_Events](pointer events) 
-**Vefslóð4:** [https://animejs.com](anime.js) 
-**Vefslóð5:** [https://borstch.com/blog/javascript-touch-events-and-mobile-specific-considerations](touch events) 
-**Myndband:** [https://www.youtube.com/watch?v=9PGfL4t-uqE](youtube tutorial fyrir rubiks) 
+- **Vefslóð 1:** [Sketchfab – 3D Models](https://sketchfab.com/search?type=models)
+- **Vefslóð 2:** [Three.js – Object3D.remove](https://threejs.org/docs/#api/en/core/Object3D.remove)
+- **Vefslóð 3:** [MDN – Pointer Events](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_events/Using_Pointer_Events)
+- **Vefslóð 4:** [Anime.js – Animation Library](https://animejs.com)
+- **Vefslóð 5:** [Borstch – Touch Events Guide](https://borstch.com/blog/javascript-touch-events-and-mobile-specific-considerations)
+- **Myndband:** [YouTube – Rubik's Tutorial](https://www.youtube.com/watch?v=9PGfL4t-uqE)
 
 
 
@@ -72,11 +72,11 @@ Upphaflega notaði ég „orbit controls“, en þau reyndust illa samhæf við 
 
 næstu skref gætu verið:
 
-• Að uppfæra teninginn í 3x3x3 útgáfu.
-• Að bæta við hjálparhnappi sem leiðbeinir notandanum í gegnum lausnina.
-• Að útfæra viðbrögð þegar teningurinn er leystur, t.d. með stuttri hreyfimynd, skilaboðum og auknu sjónrænu umhverfi.
-• Að bæta við fleiri bakgrunnsþáttum.
-• Að samhæfa orbit controls og pointer events þannig að þau virki saman á hnökralausan hátt.
+-• Að uppfæra teninginn í 3x3x3 útgáfu.
+-• Að bæta við hjálparhnappi sem leiðbeinir notandanum í gegnum lausnina.
+-• Að útfæra viðbrögð þegar teningurinn er leystur, t.d. með stuttri hreyfimynd, skilaboðum og auknu sjónrænu umhverfi.
+-• Að bæta við fleiri bakgrunnsþáttum.
+-• Að samhæfa orbit controls og pointer events þannig að þau virki saman á hnökralausan hátt.
 
 
 
