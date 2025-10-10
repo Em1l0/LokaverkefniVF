@@ -70,13 +70,13 @@ Upphaflega notaði ég „orbit controls“, en þau reyndust illa samhæf við 
 
 ### Næstu skref
 
-næstu skref gætu verið:
+Næstu skref gætu verið:
 
--• Að uppfæra teninginn í 3x3x3 útgáfu.
--• Að bæta við hjálparhnappi sem leiðbeinir notandanum í gegnum lausnina.
--• Að útfæra viðbrögð þegar teningurinn er leystur, t.d. með stuttri hreyfimynd, skilaboðum og auknu sjónrænu umhverfi.
--• Að bæta við fleiri bakgrunnsþáttum.
--• Að samhæfa orbit controls og pointer events þannig að þau virki saman á hnökralausan hátt.
+- Að uppfæra teninginn í 3x3x3 útgáfu.
+- Að bæta við hjálparhnappi sem leiðbeinir notandanum í gegnum lausnina.
+- Að útfæra viðbrögð þegar teningurinn er leystur, t.d. með stuttri hreyfimynd, skilaboðum og auknu sjónrænu umhverfi.
+- Að bæta við fleiri bakgrunnsþáttum.
+- Að samhæfa orbit controls og pointer events þannig að þau virki saman á hnökralausan hátt.
 
 
 
