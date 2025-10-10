@@ -8,7 +8,7 @@
 ---
 
 ## Verkefnalýsing
-Mobile 2x2x2 Rubik's cube leikur.
+- Mobile 2x2x2 Rubik's cube leikur.
 Upphaflega stefndi ég að því að búa til hefðbundinn 3x3x3 Rubik's cube, en eftir nánari hugsun ákvað ég að byrja frekar á einfaldari 2x2x2 útgáfu til að prófa hugmyndina og sjá hversu langt ég kæmist. Markmiðið var að hanna snertistýrðan Rubik's cube þar sem notandinn gæti skoðað allar hliðar á frjálsan hátt. Hins vegar komu upp ýmsar tæknilegar áskoranir, og því ákvað ég að einfalda verkefnið með því að takmarka snúninga við 90 gráður.
 
 Teningurinn styður swipe hreyfingar í allar áttir fyrir venjulegan 2x2x rubik's, og snúningarnir eru útfærðir með hjálp anime.js. Að lokum vildi ég bæta við tveimur hnöppum: „random rotation“ hnapp sem framkvæmir handahófskennda snúninga, og hins vegar „hjálparhnapp“(hafði ekki tíma fyrir mikla stærðfræði) sem gefur vísbendingar um hvernig hægt sé að leysa teninginn. 
